@@ -1,0 +1,19 @@
+{
+	"name": "coral-reef",
+	"version": "0.0.1",
+	"dependencies": {
+		"coral": "latest",
+		"express": "latest",
+		"lodash": "latest",
+		"mongoose": "latest",
+		"cookie-parser": "*",
+		"body-parser": "*",
+		"compression": "*",
+		"morgan": "*",
+		"lusca": "*",
+		"method-override": "*",
+		"connect-mongo": "*",
+		"mongoose": "*",
+		"passport": "*"
+	}
+}
